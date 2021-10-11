@@ -1,1 +1,0 @@
-<?php header('Location: ./src/main/webapp/index.html'); ?>
